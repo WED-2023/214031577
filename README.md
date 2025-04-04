@@ -39,7 +39,7 @@ During this project, I learned and practiced:
 - **github.io Link:** [https://wed-2023.github.io/214031577/]
 ---
 
-## 📝 Message to the Teacher
+## 📝 Message to the Examiner
 
 I really enjoyed building this project – it allowed me to combine both technical skills and creativity.  
 I paid attention to **details, design, interactivity**, and made sure all requirements were met.  
